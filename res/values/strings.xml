@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">homework_0409_accountbook</string>
+    <string name="income">收入</string>
+    <string name="payout">支出</string>
+    <string name="salary">工资</string>
+    <string name="extraGains">外快</string>
+
+
+</resources>
